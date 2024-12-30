@@ -1,12 +1,30 @@
-<h1>I'm Battugs</h1>
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning expressJS again
-- 💞️ I’m looking to collaborate on Null
-- 📫 How to reach me b.battugs15@gmail.com 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Null
+# 👋 Hello, I'm Battugs!  
 
-<!---
-oxterhal/oxterhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me  
+- 🔍 **Interests**: Passionate about coding and exploring innovative technologies.  
+- 🌱 **Currently Learning**: Revisiting and mastering **ExpressJS**.  
+- 💞️ **Looking to Collaborate On**: Open to exciting projects (still figuring out the right one 🚀).  
+- 📫 **Contact Me**: [battugs.dev@gmail.com](mailto:battugs.dev@gmail.com)  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: I believe "Null" isn't just a value—it's a mystery waiting to be solved.  
+
+---
+
+### 🔧 Technologies & Tools  
+- **Languages**: JavaScript, HTML, CSS  
+- **Frameworks/Libraries**: Node.js, Express.js, React  
+- **Tools**: Git, VSCode, Postman  
+
+---
+
+### 🌟 GitHub Stats  
+![Battugs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxterhal&show_icons=true&theme=radical)  
+
+---
+
+### 🌍 Let's Connect  
+- 🔗 [LinkedIn](#)  
+- 🌐 [Portfolio Website](#) *(coming soon!)*  
+
+---
+*"Keep learning, keep growing, and keep building amazing things!"*  
