@@ -23,8 +23,9 @@
 ---
 
 ### 🌍 Let's Connect  
-- 🔗 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#) *(coming soon!)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/battugs-b-a6a062301/)  
+- 🌐 [Portfolio Website](https://oxterhal.vercel.app/) *(currently issued)*  
+- 📸 [Instagram](https://www.instagram.com/battugs__dev/)  
 
 ---
 *"Keep learning, keep growing, and keep building amazing things!"*  
