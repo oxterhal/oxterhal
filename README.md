@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 - 🔍 **Interests**: Passionate about coding and exploring innovative technologies.  
-- 🌱 **Currently Learning**: Revisiting and mastering **ExpressJS**.  
+- 🌱 **Currently Learning**: Learning **Supabase**  
 - 💞️ **Looking to Collaborate On**: Open to exciting projects (still figuring out the right one 🚀).  
 - 📫 **Contact Me**: [battugs.dev@gmail.com](mailto:battugs.dev@gmail.com)  
 - 😄 **Pronouns**: He/Him  
