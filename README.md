@@ -17,9 +17,9 @@
 ---
 
 ### 🔧 Technologies & Tools  
-- **Languages**: JavaScript, HTML, CSS  
-- **Frameworks/Libraries**: Node.js, Express.js, React  
-- **Tools**: Git, VSCode, Postman  
+- **Languages**: JavaScript, HTML, CSS , Java, C++
+- **Frameworks/Libraries**: Node.js, Express.js, React JS, React Native, Next JS  
+- **Tools**: Git, VSCode, Postman , Cursor, MongoDB
 
 ---
 
